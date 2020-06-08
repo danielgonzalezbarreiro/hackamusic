@@ -23,6 +23,9 @@
         >
           <img src="@/assets/img/linkedin.png" alt />
         </a>
+        <a class="github" href="https://github.com/danielgonzalezbarreiro">
+          <img src="@/assets/img/github.png" alt />
+        </a>
       </h3>
       <h3>
         Project developed with:
@@ -76,6 +79,10 @@ export default {
   padding: 1rem;
 }
 .linkedin img {
+  width: 4rem;
+  padding: 1rem;
+}
+.github img {
   width: 4rem;
   padding: 1rem;
 }
